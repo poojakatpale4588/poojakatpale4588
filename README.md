@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pooja Katpale</h1>
 <h3 align="center">Just a GIRL with GOALS.</h3>
 
+- 🌱 I’m currently learning Flutter. **By completing #100DaysOfCode Challenge Using Flutter..**
+
 - 📫 How to reach me **poojakatpale4588@gmail.com**
+
+- ⚡ Fun fact **A very caffeine-dependent life form.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
