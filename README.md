@@ -1,4 +1,4 @@
-![MasterHead](https://wallpapercave.com/wp/wp3616929.jpg)
+![MasterHead](https://pbs.twimg.com/profile_banners/1385644411464208387/1623309958/1080x360)
 <h1 align="center">Hi 👋, I'm Pooja Katpale</h1>
 <h3 align="center">Just a GIRL with GOALS.</h3>
 
